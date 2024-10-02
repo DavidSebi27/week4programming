@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\bin\Debug\net8.0\assignment7.exe
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\bin\Debug\net8.0\assignment7.deps.json
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\bin\Debug\net8.0\assignment7.runtimeconfig.json
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\bin\Debug\net8.0\assignment7.dll
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\bin\Debug\net8.0\assignment7.pdb
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.AssemblyInfo.cs
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.sourcelink.json
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.dll
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\refint\assignment7.dll
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.pdb
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\assignment7.genruntimeconfig.cache
+C:\Users\david\OneDrive\Asztali gép\IT\repo-for-programming\week4programming\.vs\week4programming\week4hw\assignment7\obj\Debug\net8.0\ref\assignment7.dll
