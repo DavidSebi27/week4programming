@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C4B33B4-64D4-40BC-AA30-DCC17E3D9537}|assignment8\\assignment8.csproj|c:\\users\\david\\onedrive\\asztali g\u00E9p\\it\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4B33B4-64D4-40BC-AA30-DCC17E3D9537}|assignment8\\assignment8.csproj|solutionrelative:assignment8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA23CD67-250B-496E-B7B7-9F0C5AAA4500}|assignment7\\assignment7.csproj|c:\\users\\david\\onedrive\\asztali g\u00E9p\\it\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA23CD67-250B-496E-B7B7-9F0C5AAA4500}|assignment7\\assignment7.csproj|solutionrelative:assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,6 +48,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment8\\Program.cs",
+              "RelativeDocumentMoniker": "assignment8\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment8\\Program.cs",
+              "RelativeToolTip": "assignment8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:00:20.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\Program.cs",
               "RelativeDocumentMoniker": "assignment7\\Program.cs",
               "ToolTip": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment6\\Program.cs",
               "RelativeDocumentMoniker": "assignment6\\Program.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment5\\Program.cs",
               "RelativeDocumentMoniker": "assignment5\\Program.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment4\\Program.cs",
               "RelativeDocumentMoniker": "assignment4\\Program.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment3\\Program.cs",
               "RelativeDocumentMoniker": "assignment3\\Program.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment2\\Program.cs",
               "RelativeDocumentMoniker": "assignment2\\Program.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Asztali g\u00E9p\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment1\\Program.cs",
               "RelativeDocumentMoniker": "assignment1\\Program.cs",
