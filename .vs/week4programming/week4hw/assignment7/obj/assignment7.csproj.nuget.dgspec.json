@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\OneDrive\\Asztali gép\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj": {}
+    "C:\\Users\\david\\Desktop\\IT\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\OneDrive\\Asztali gép\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj": {
+    "C:\\Users\\david\\Desktop\\IT\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Asztali gép\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Desktop\\IT\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj",
         "projectName": "assignment7",
-        "projectPath": "C:\\Users\\david\\OneDrive\\Asztali gép\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj",
+        "projectPath": "C:\\Users\\david\\Desktop\\IT\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\assignment7.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\OneDrive\\Asztali gép\\IT\\repo-for-programming\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\obj\\",
+        "outputPath": "C:\\Users\\david\\Desktop\\IT\\week4programming\\.vs\\week4programming\\week4hw\\assignment7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
